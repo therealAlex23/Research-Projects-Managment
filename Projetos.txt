@@ -1,0 +1,10 @@
+Teoria da Informacao,TI,0,14/12/2019,4,0/0/0,false,34939,34939#88888#32323,goncalo.guedes@gmail.com
+Project-X,PX,2000,18/04/2017,10,0/0/0,false,34444,3444#32323,ronaldoooo@gmail.com#foioeder@gmail.com
+Laboratorio de Ratos,LAB,3200,30/06/2019,10,0/0/0,false,28392,28392,rap@gmail.com#jose.gf@gmail.com#sonia.tavares@gmail.com
+Analise Sangue,ANSAN,800,30/01/2020,5,0/0/0,false,49959,49959#32323,bruno.fernande@gmail.com
+Computacional,CP,1200,18/12/2025,14,0/0/0,false,61616,61616,daniel.carrico@gmail.com
+Estudo da Tecnologia,ET,2600,17/01/2022,5,0/0/0,false,10101,10101#71717,william@gmail.com#moutinho@gmail.com#domingos@gmail.com
+Comprar Tempo,COMPT,1200,09/02/2016,7,0/0/0,false,91223,91223#79797,gon.paciencia@gmail.com
+Sistemas Operativos,SO,3000,18/10/2018,3,0/0/0,false,80808,80808,bruninha66@gmail.com#filipaalexandra@gmail.com#brasiuuu@gmail.com
+Linguagem,LING,800,28/01/2017,6,0/0/0,false,35353,35353#49494#28392,loner@gmail.com
+Educacao Educativa,EDED,1200,20/07/2016,1,0/0/0,false,36363,36363,zarag@gmail.com#danielcaesar@gmail.com
